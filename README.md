@@ -5,6 +5,10 @@
 
     git clone https://github.com/VerviumStrike/DBot_Verification.git
 
+# Note
+
+ 1. Open bot.js then read the comments to guide you.
+
 # Maintainer
 
  - [VerviumStrike](https://github.com/VerviumStrike)
